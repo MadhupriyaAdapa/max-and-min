@@ -10,3 +10,4 @@ for i in range(n):
     if a[i]<min:
         min=a[i]
 print(min)
+print(n)
